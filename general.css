@@ -47,7 +47,7 @@
     background-color: transparent;
     text-decoration: underline;
   }
-  
+
   h1 {
     font-size: 40px;
   }
@@ -59,3 +59,8 @@
   p {
     font-size: 14px;
   }
+  
+  h1 {
+    text-align: center;
+  }
+  
