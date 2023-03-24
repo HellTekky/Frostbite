@@ -71,4 +71,9 @@
   widgetbot {
     align-content: center;
   }
+
+  p2 {
+    text-align: center;
+    position: fixed; bottom:0;
+  }
   
