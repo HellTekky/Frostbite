@@ -44,25 +44,19 @@
     font-size: 14px;
   }
   a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: pink;
+    color: white;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: red;
+    color: lightblue;
     background-color: transparent;
     text-decoration: underline;
   }
   
   a:active {
-    color: yellow;
+    color: white;
     background-color: transparent;
     text-decoration: underline;
   }
