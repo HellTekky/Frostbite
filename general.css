@@ -29,20 +29,7 @@
     background-color: black;
     color: white;
   }
-  table, th, td {
-    border: 1px solid white;
-  }
-  h1 {
-    font-size: 40px;
-  }
   
-  h2 {
-    font-size: 30px;
-  }
-  
-  p {
-    font-size: 14px;
-  }
   a:link {
     color: white;
     background-color: transparent;
