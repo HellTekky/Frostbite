@@ -29,7 +29,7 @@
     background-color: black;
     color: white;
   }
-  
+
   a:link {
     color: white;
     background-color: transparent;
@@ -46,4 +46,16 @@
     color: white;
     background-color: transparent;
     text-decoration: underline;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 14px;
   }
