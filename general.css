@@ -1,73 +1,63 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: black;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: black;
-    color: white;
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.active {
-    background-color: white;
-    color: black;
-  }
-  body {
-    background-color: black;
-    color: white;
-  }
+  background-color: black;
+  overflow: hidden;
+}
 
-  a:link {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: lightblue;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #fff;
+  color: #000;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+a {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+    active {
     color: white;
     background-color: transparent;
     text-decoration: underline;
   }
 
-  h1 {
-    font-size: 40px;
-  }
-  
-  h2 {
-    font-size: 30px;
-  }
-  
-  p {
-    font-size: 14px;
-  }
-  
-  h1 {
-    text-align: center;
-  }
 
-  div69 {
-    text-align: center;
-  }
+h1,
+h2,
+p {
+  text-align: center;
+}
 
-  widgetbot {
-    align-content: center;
-  }
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
