@@ -82,10 +82,11 @@ p {
 
 div69 {
   text-align: center;
+  position: fixed;
   bottom: 0;
 }
 
 img {
- border-radius: 20%;
+ border-radius: 14%;
  border-color: white;
 }
