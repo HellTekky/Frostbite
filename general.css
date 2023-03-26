@@ -67,3 +67,9 @@ p {
   display: flex;
   justify-content: center;
 }
+
+button1 {
+  color: purple;
+  border-color: purple;
+  justify-content: center;
+}
