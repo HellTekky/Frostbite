@@ -69,7 +69,7 @@ p {
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background: #4CAF50; /* Green */
   border: none;
   color: purple;
   padding: 15px 32px;
