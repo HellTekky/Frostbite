@@ -69,17 +69,6 @@ p {
   justify-content: center;
 }
 
-.button {
-  background: #4CAF50; /* Green */
-  border: none;
-  color: purple;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
 div69 {
   text-align: center;
   position: sticky;
@@ -87,7 +76,9 @@ div69 {
 }
 
 img {
- vertical-align: middle;
+ text-align: center;
  border-radius: 14%;
  border-color: white;
+ border-width: 5;
+ 
 }
