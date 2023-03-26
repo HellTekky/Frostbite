@@ -82,11 +82,12 @@ p {
 
 div69 {
   text-align: center;
-  position: fixed;
+  position: sticky;
   bottom: 0;
 }
 
 img {
+ vertical-align: middle;
  border-radius: 14%;
  border-color: white;
 }
