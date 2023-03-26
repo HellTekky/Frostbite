@@ -83,3 +83,7 @@ p {
 div69 {
   text-align: center;
 }
+
+img {
+  border-radius: 80%;
+}
